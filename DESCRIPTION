@@ -1,0 +1,22 @@
+Package: ggbiome
+Type: Package
+Title: Obtain and Plot Whittaker's Biome Information
+Version: 0.0.1
+Author: Guillem Bagaria, Victor Granda, Georges Kunstler
+Maintainer: Guillem Bagaria <g.bagaria@creaf.uab.cat>
+Description: R package with functions to obtain mean annual temperature,
+    mean annual precipitation and Whittaker's biome type providing geographical
+    coordinates, and to plot locations over the biome diagram.
+License: GPL (>=2)
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Imports:
+    sp,
+    ggplot2,
+    RFc,
+    viridis
+Suggests:
+    knitr,
+    testthat,
+    rmarkdown
+VignetteBuilder: knitr
