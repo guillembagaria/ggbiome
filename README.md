@@ -5,6 +5,12 @@ mean annual precipitation (MAP) and Whittaker's biome type (Whittaker 1975)
 providing geographical coordinates, and to plot locations over the biome 
 diagram.
 
+
+# Remarks
+
+Some functionalities of `ggbiome` are based on `BIOMEplot` package 
+([https://github.com/kunstler/BIOMEplot](https://github.com/kunstler/BIOMEplot)).  
+
 The biomes MAP and MAT were digitalized from the modified biomes of 
 Ricklefs (2008).
 
