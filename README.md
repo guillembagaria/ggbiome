@@ -15,7 +15,7 @@ ggbiome is only at GitHub at the moment. You can install it using devtools packa
 install.packages('devtools')
 
 # install ggbiome
-devtools::install_github('guillembagaria/ggbiome')
+devtools::install_github('guillembagaria/ggbiome', build_vignettes = TRUE)
 ```
 
 ## Remarks
